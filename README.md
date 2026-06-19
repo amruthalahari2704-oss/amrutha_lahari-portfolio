@@ -1,4 +1,4 @@
-Amrutha Lahari Portfolio
+# Amrutha Lahari Portfolio
 
 # Live Demo
 https://amruthalahari2704-oss.github.io/amrutha_lahari-portfolio/ 
